@@ -1,0 +1,20 @@
+---
+layout: page
+title: <!--- Weather --->
+author: Sami Squires
+---
+The climate in Alexandria, Egypt has always been unconditionally hot.
+The **Egyptian Gazette** refers the summer months The dry heat gives the
+residents no relief, even at night.
+Even though Alexandria is close to the Nile River,
+ the western desert provides much of that dry heat to Alexandria.
+ Many citizens escape the heat by going to somewhere cooler in Europe.
+ We may ask ourselves now, was the climate actually suitable for living,
+ or was this one of the reasons why the population decreased?
+  An day described as an average spring day in Alexandria hit a temperature of
+  29 degrees celcius (84* Farenheit).The *Daily Weather Report* from the
+  **Egyptian Gazette** highlights the different observed temperatures and
+  conditions throughout different locations around Egypt. The graph shows
+recorded conditions around Alexandria. The *Daily Weather Report* also records
+ the moon phases and other station's conditions. All these values are published
+  in the Egyptian Gazette once or twice a week.
