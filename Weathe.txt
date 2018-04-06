@@ -1,7 +1,8 @@
+
+
 ---
-layout: page
-title: <!--- Weather --->
-author: Sami Squires
+# Impact from Climate in Alexandria
+By: Sami Squires
 ---
 The climate in Alexandria, Egypt has always been unconditionally hot.
 The **Egyptian Gazette** refers the summer months The dry heat gives the
@@ -18,3 +19,11 @@ Even though Alexandria is close to the Nile River,
 recorded conditions around Alexandria. The *Daily Weather Report* also records
  the moon phases and other station's conditions. All these values are published
   in the Egyptian Gazette once or twice a week.
+  I searched through working sets and got the query-
+   //table[@xml:id="AlexandriaWeather"]/row[contains(.,'Max')]/cell[3]/measure
+  to get 1905 daily max. temperatures from Alexandria's observations.![Max. temperatures from  1905](https://raw.githubusercontent.com/samisquires/analysis/master/weather%20from%201905.png)
+My query helps me define the daily weather conditions, and from there I can
+draw a relationship whether population decline could be related to climate
+conditions. The seasons in Egypt are quite minimal. It is hot all year around,
+but winter and summer align with the U.S., since Alexandria is in the northern
+hemisphere.
