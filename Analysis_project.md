@@ -31,7 +31,7 @@ based off of research I have collected.
 
 ## 3. Visualizations:
   ![Behrend Company](https://raw.githubusercontent.com/Mike-Ebert/analysis/master/behrend%20visualization.png)
-  ![Carver Bros Company](Huber, Valeska. Channelling Mobilities: Migration and Globalisation in the Suez Canal Region and Beyond, 1869–1914. Cambridge: Cambridge University Press, 2013.)
+  ![Carver Bros Company](https://github.com/Mike-Ebert/analysis/blob/master/carver%20bros%20visualization%20update.png)
 
 # Analysis
 Before doing research on scholarly articles having to do with Egyptian exports, I tried to find any additional
