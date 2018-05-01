@@ -20,23 +20,23 @@ To answer the questions that I had about polo teams and players, I composed and 
 
 Most of the polo matches and tournaments were found in the ‘Sport and Play’ section of the Egyptian Gazette, which was located on page five most of the time. The search for my query on the word “chukker” came back with 54 results, which was not as much as I thought it would be, but it is still enough to do analysis for this project. Most of the returning results from my query were from the first few months of 1906 and all of those results came from tournaments that were being played. The results of this query can also be tampered because of the fact that there are some issues that have not been turned into the main repository yet, or some students just didn’t correctly format when they were doing their xml coding. I think that if I had every issue from 1905-1907, correctly formatted and turned in to the main repository, I would have a lot more results for my query and more games that I can use for evaluation to see who ends up being the best polo player and team in Egypt.
 
-![Goals per game (Teams)] (goals_per_game_teams.png)
-![Goals per game (Players)] (goals_per_game_players.png)
+![Goals per game (Teams)] (https://raw.githubusercontent.com/ieb17/analysis/a291cf6ef8b3c36fa423529b9e81460594014c4e/goals_per_game_teams.png)
+![Goals per game (Players)] (https://raw.githubusercontent.com/ieb17/analysis/a291cf6ef8b3c36fa423529b9e81460594014c4e/goals_per_game_players.png)
 
 After going through my results, I put together a bar graph showing the number of goals that were scored per game in all of the polo games combined by each of the teams that played, along with players that scored those goals each game. Out of the five teams that played polo in Egypt during this time, the Tourists is the team leading this category, scoring 4 goals per game. The player that had the most goals per game was Captain Stockwell, who averaged 1.5 goals per game. Stockwell plays for the Mosquitoes, who was second in this category with 3.25 goals per game. This gives a visual representation for not only which team scores the most goals per game in all of the polo games, but also which players score those goals each game for their teams and how many goals per game they have.
 
-![Lead to a polo article from March 9th, 1906, during the Cairo Polo Tournament] (analysis_image.png)
+![Lead to a polo article from March 9th, 1906, during the Cairo Polo Tournament] (https://raw.githubusercontent.com/ieb17/analysis/a291cf6ef8b3c36fa423529b9e81460594014c4e/analysis_image.png)
 
 Although statistics are a big part of the research for my analysis project, it is not the only source that I will be using to determine who is the best polo team and player in Egypt. When I read through the articles that consist of polo games, I will see what the writer specifically says about each of the teams and the players and how they performed from his point of view, since he was there to watch all the games go down in 1906. I took down notes of what the writer said about each player and put those together with the statistics to figure out the best teams and players that play polo in Egypt.
 
-![Total Goals (Teams)] (total_goals_teams.png)
-![Total Goals (Players)] (total_goals_players.png)
+![Total Goals (Teams)] (https://raw.githubusercontent.com/ieb17/analysis/a291cf6ef8b3c36fa423529b9e81460594014c4e/total_goals_teams.png)
+![Total Goals (Players)] (https://raw.githubusercontent.com/ieb17/analysis/a291cf6ef8b3c36fa423529b9e81460594014c4e/total_goals_players.png)
 
 Another one of my visualizations that I used is that I put together some pie charts with the number of total goals from each of the polo teams, along with their players on that team, and see which of the teams and players scored the majority of the goals in all of the polo games that were played. The Tourists were the team that scored the most goals, with a total of 16 goals, along with Captain Stockwell scoring the most goals from all the players on the polo teams, with a total of six goals. This gives a better representation of who dominates in scoring for all the polo teams and players in Egypt for 1906.
 
 The data visualization charts that I used above are different because one shows the goals per game by each player and team, while the other shows the total amount of goals of the same players and teams. I decided to use both of these data charts because for the first one, it shows the players and teams efficiency in each game with the average amount of goals they score, while in the second one, it shows the total goals and who is the best overall scorer on each team and the best scoring polo team in Egypt.
 
-![Records of Polo Teams] (records.png)
+![Records of Polo Teams] (https://raw.githubusercontent.com/ieb17/analysis/a291cf6ef8b3c36fa423529b9e81460594014c4e/records.png)
 
 The next data visualization that it shown is a multi-bar chart for the total amount of wins and losses each of the polo teams have throughout the course of all the polo games that are played. This shows, blatantly, which of the teams that have played are really good or really bad. From this chart, you can also examine, from the teams that have good win-loss records, that most of the good players that play polo are from the teams that have winning overall records in the polo games that they play. The Tourists have one of the best records in Egypt from all the polo games, with four total wins and zero total losses. One of the worst teams in polo is E.A., who have a combined zero wins and four losses.
 
