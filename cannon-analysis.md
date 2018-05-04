@@ -1,38 +1,13 @@
 ---
 layout: page
-subheadline: "Jonathan Cannon"
 title: "The Reported Accidents, Incidents, Tragedies, and Disasters of the Egyptian Gazette"
-teaser: "The Occurrences and Patterns of Daily Events"
-date: 2018-04-16
-categories:
-  - Headlines
-  - Accidents
 author: JonathanCannon
-tags:
-  - Local and General, Telegrams
-  - Accidents
-header: no
-image:
-  title: https://github.com/dig-eg-gaz/page-images/blob/master/1905-page-images-1/1905-01-10-p3.jpg
-  thumb: blog-images/image-name.png
-  homepage: blog-images/image-name.png
-  caption: <!-- info about the image, such as date of issue -->
-  caption_url: <!-- link-to-page-containing-text? -->
-source:
 ---
 When we think of the day to day lives of people we may think of a consistent schedule that only changes when major events happen.  However, from first hand experience I know the largest disruption to daily life are accidents.  So when looking at the lives of people living halfway across the world over a hundred years ago I wanted to see how they handled these accidents and in what ways they were affected by them.  In this analysis I will be finding the various accidents that made it into the Egyptian Gazette between the years of 1905-1906 and will compile the data based on what they were called, what type of accidents were likely to be deemed newsworthy, and to see what sort of long term impact (if any) they might have had on the city of Alexandria.
 
 The first thing that I need to do however is to define what I am searching for.  This is where the source came in handy, as even though it was more recent than the time period I will be analyzing it still laid out a format on analyzing accidents.  According to the study, in a group of 500 young Egyptian men around 4.6% of the group experienced an accident within sometime in their lives.  This is helpful in analyzing what types of accidents were most likely to make the headlines as well since the study was also able to gather the percentage of people who experienced various accidents such as motor or fights or even an electrical problem.  When I say the word accident, I will be referring to both accident and any other word that was used to describe such an event.  Another term I looked for when studying accidents was the word “incident,” which it turned out gave a lot of results but not the same kind of news.  While articles with the title accident they focused on an event that was caused by something random or unexpected whereas incidents seemed to be used more for intentional conflicts such as on the frontiers.
 
-By taking all the times that the word accident was used in just the headline for an article I was able to gather 103 results.  Many of these headlines were duplicates in the Local and General section such as “Terrible Accident” or “Motor Accident.”  The most interesting ones were ones that had a specific title next to them, such as those that mention the specific individual by name such as an article from the June 12th, 1905 that had the headline “Mr. Clowes in a Railway Accident” or the “Kafr Zayat Railway Accident” on June 23, 1905.
-
-text visualization
-
-<iframe src="https://public.tableau.com/views/AccidentOccurance/Sheet22?:embed=y&:display_count=yes&publish=yes" align="center" width="90%" height="500"/>
-
-<iframe src="https://public.tableau.com/views/AccidentReaperance-Headlines/Sheet1?:embed=y&:display_count=yes" align="center" width="90%" height="500"/>
-
-<iframe src="https://public.tableau.com/views/AccidentReaperance/Sheet2?:embed=y&:display_count=yes&publish=yes" align="center" width="90%" height="500"/>
+By taking all the times that the word accident was used in just the headline for an article I was able to gather 103 results.  Many of these headlines were duplicates in the Local and General section such as “Terrible Accident” or “Motor Accident.”  I thus divided these titles by certain features with accidents related to vehicles categorized under "vehicles" and more general headlines like "tragic accident" under the "general section (please see the graph for Accident Reappearance for a visualization). The most interesting ones were ones that had a specific title next to them, such as those that mention the specific individual by name such as an article from the June 12th, 1905 that had the headline “Mr. Clowes in a Railway Accident” or the “Kafr Zayat Railway Accident” on June 23, 1905.
 
 Speaking of the year 1905, the month of June saw a large spike in railway accidents with headlines such as the two I mentioned in the previous paragraph as well as those with the title “Cairo Express Derailed” and “Another Railway Accident.”  This indicates a massive problem with the Egyptian rail system if it was a frequent enough disaster to be a cause for discussion repeatedly in the Egyptian Gazette.  Another accident that got multiple articles was when the King of England ending up tearing a tendon in his leg.  According to the articles (one was published on the 17th of November and another on the 18th in the year 1905) King Edward VII had ended up tearing a tendon above his ankle.  The articles focused on separate issues, with the preliminary one giving the details about where the King had his accident, what he was doing, and tried to downplay what exactly happened to him while the follow-up that was issued the following day gave the specific details such as where the injury was, who was surrounding and greeting the King during his rough time, and what he plans to do since he was issued to be in no danger anymore.
 
@@ -48,13 +23,15 @@ All these results were gathered by using Xpath’s results features using the fi
 
 Other ways this search could be improved upon would be by doing both more research as well as using more data.  This could be done by digging deeper into the articles themselves to compare the similarities between articles in terms of the words in the passage.  Perhaps these articles have a certain area in which to occupy and this could be analyzed by comparing the number of words or the similarities in language to see if they all have a connecting theme.
 
+Text visualization
+
 <iframe src="https://public.tableau.com/views/AccidentOccurance/Sheet22?:embed=y&:display_count=yes&publish=yes" align="center" width="90%" height="500"/>
 
 <iframe src="https://public.tableau.com/views/AccidentReaperance-Headlines/Sheet1?:embed=y&:display_count=yes" align="center" width="90%" height="500"/>
 
 <iframe src="https://public.tableau.com/views/AccidentReaperance/Sheet2?:embed=y&:display_count=yes&publish=yes" align="center" width="90%" height="500"/>
 
-By using Tableau I was able to make the data visible.  The charts indicate the various patterns and occurrences of the term accident itself and when it appeared in the Egyptian Gazette.  The first graph "Accident Occurrence" was used to show the general trend of accidents from the years 1905 to 1906.  The Table for the reappearance for headlines containing the word accident was used, and the other various graph that follow this style was used to compare the different categories of accidents that were featured in the Egyptian Gazette.
+By using Tableau I was able to make the data visible.  The charts indicate the various patterns and occurrences of the term accident itself and when it appeared in the Egyptian Gazette.  The first graph "Accident Occurrence" was used to show the general trend of accidents from the years 1905 to 1906.  The Table for the reappearance for headlines containing the word accident was used, and the last graph is showing the different categories of accidents and when they appeared in the headlines during these two years.
 
 These headlines help to paint what this world was like to live in, either through learning about the individual stories that people would have gossiped about in the streets or by even detailing some of the day to day events that impacted the people.  These events are themselves tricky to define as I am sure there were more accidents in the city that did not make it into the Egyptian Gazette and thus lost to us, but this is a good starting point to gather information on the most exciting and mundane act in an average citizen’s day.
 
