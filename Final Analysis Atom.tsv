@@ -1,0 +1,22 @@
+![Local and General Word Cloud](https://raw.githubusercontent.com/hlb17/analysis/master/Analysis%20Word%20Cloud.jpg)
+In my analysis project I decided to look at the "Local and General" section of the Egyptian Gazette newspaper.
+I was interested in the topics that showed up most in the section and moreover what topics kept getting printed
+in the issues of the newspaper. As a result of this I decided to create a wordcloud to make a visual
+representation of the headlines of each section of the newspaper. In the wordcloud, the headlines that were printed
+most are the largest in the figure and then following that are the headlines that are posted less which are represented
+by the smaller words in the figure.
+Data-
+For this data set I created a query that would find only the headlines in the section of local and general and
+it would also include the date of the issue posted. I used two queries to do this because the @feature and @element
+tags were implemented and each contained data that I needed to combine to get accurate results. The first query used was
+as presented //div[@feature="local"]/div/head , the second query is different by one word //div[@element="local"]/div/head .
+The first query search returned 2,497 items while the second query resulted in 308 items. After this I transferred all the
+results into atom and refined the visual content that the search gave me. At the end I had two columns of data that
+was the date of the issue and the headline that was posted on that date in the "Local and General" section of the newspaper.
+Conclusion
+The largest printed headline was the word "Canal" and the second most printed headline was "Suez". There were other headlines
+printed that were seen quite often throughout consisting of: Alexandira, Plague, Egyptian, Stray Dogs, etc. There were often
+topics that were repeated in this section of the newspaper and new information was displayed this way in the Egyptian Gazette.
+![Photo of Local and General Section](img width="85" alt="screen shot 2018-04-25 at 10 09 46 am" src="https://user-images.githubusercontent.com/35302999/39251995-a7fdc504-4872-11e8-87ca-2fc9aa2777e5.png")
+This is a clip of the newspaper that I would find the "Local and General" section in and it is typically found on the third page
+of the issue. 
