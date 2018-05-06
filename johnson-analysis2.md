@@ -1,6 +1,12 @@
 ---
+layout: page
+subheadline: "Jasmine Johnson"
 author: JasmineJohnson
-title: Education In Egypt
+title: "Education In Egypt"
+date: 2016-04-24
+permalink: /analysis/2017/johnson-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 This paper will examine the effectiveness and reasonability of Education in Cairo, Egypt. The topic was sparked by the infamous school strike that was reported on February 26th, 1906, which was began by a group of cairo Students who saw importance in advocating for the rights of higher education students. Points of inquiry then developed as to how often was Education or the school system in Cairo made “newsworthy,” as well as how often was it critiqued and or actually modified based on the spoken out grievances of the people. Another point of inquiry entails the influence of European powers affect on the school systems in Cairo, in how they were able to modify in a way that displease law students as well as the Medical, and Polytechnic students who later also joined the fight.
 
