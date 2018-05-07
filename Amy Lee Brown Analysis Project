@@ -1,6 +1,0 @@
----
-layout: page
-title: Plague Trends
-author: Amy Lee Brown
----
-For my analysis project, I want to analyze data trends regarding the plague in Egypt. To do this, I will use an xpath query similar to this one: //div[@type="item"][contains(.,'plague')]. Once I get my query results, I will use Tableau to see how many times the word plague was mentioned in issues of "The Egyptian Gazette" throughout different months of 1905-1907. 
