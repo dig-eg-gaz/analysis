@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wind Speeds in relation to Heat of the Sun
+title: Wind Speeds in relation to the Heat of the Sun
 author: PeytonSmith
 subheadline: "Peyton Smith"
 permalink: /analysis/2019/smith-analysis
@@ -9,7 +9,7 @@ header:
 ---
 ### Introduction
 
-For my subtopic, I've decided to analyze wind speeds in relation to my group's general topic, Heat of the sun. More specifically, I wanted to pick apart data, like from the Heat of the sun, and get information that can be used to research upon any significant data relating to what I've researched for the Heat of the sun. I thought this was a good subtopic in that, maybe the two data sets (Wind speeds and heat of the sun) will conform with one another, or maybe the data is inversely proportional to one in other. With this, it can also question the validity in acquiring this data, through XPath queries. For this, I thought that it would be neat to find a proper credible source that analyzes wind speeds for Alexandria in some arbitrary year, and see if the data trends are the somewhat the same as shown in mine. 
+For my subtopic, I've decided to analyze wind speeds in relation to my group's general topic, the Heat of the sun. More specifically, I wanted to pick apart data, like from the Heat of the sun analysis, and get information that can be used to research upon relating to what I've analyzed for the Heat of the sun. I thought this was a good subtopic in that, maybe the two data sets (Wind speeds and the heat of the sun) will conform with one another, or maybe the data is inversely proportional to one in other. With this, it can also question the validity in acquiring this data, through XPath queries. For this, I thought that it would be neat to find a proper credible source that analyzes wind speeds for Alexandria in some arbitrary year, and see if the data trends are the somewhat the same as shown in mine. 
 
 ### XPath Query
 
