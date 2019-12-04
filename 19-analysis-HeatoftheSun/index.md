@@ -19,11 +19,11 @@ For my query, I wanted to pick something that yielded good enough results regard
 
 Now that I have my query results, I needed to take my results and make a visualization out of it. Because my data was dense in my specified timeframe, doing an average of each month was the best thing to do in order to give a visualization of what my data represents as the sample size was large enough to accurately depict the indexes for each month. After putting the results in a spreadsheet, transferring it to Tableau, and averaging the measures per its corresponding month I've come up with this:
 
-![data visualization](datvisualization.jpg "Initial Bar Graph of Heat of the Sun Averages for each month.")
+![data visualization](datavisualization.jpg "Initial Bar Graph of Heat of the Sun Averages for each month.")
 
 Although the visualization here is good, as it gives a good initial representation of the heat of the sun averages for each month, as you can tell the graph spikes in October 1906 and sinks in December 1906. As a result, I began to find out why this is happening and noticed that it was an error in the data source. In one of the days for October, the measure was 452, blowing the average way out of proportion. Likewise, with December, a day had a measure of 8, lowering the average. This wasn't too big of a deal as we are only dealing with averages. Simply excluding the two days with the incorrect measures is all I needed to do in order to make the graph accurately representable of what we are trying to research, so that is what I did. After doing this, the graph looks like this: 
 
-![data visualization](datvisualization1.jpg "Revised Bar Graph of Heat of the Sun Averages for each month.")
+![data visualization](datavisualization1.jpg "Revised Bar Graph of Heat of the Sun Averages for each month.")
 
 As you can tell, the data flows much better as the months go by. The visualization almost depicts a sinusoidal function as time goes by, where the averages of the heat of the sun peaks in the summer months and flows smoothly until it troughs into the winter months.
 
