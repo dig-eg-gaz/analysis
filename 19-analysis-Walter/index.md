@@ -14,4 +14,5 @@ After examining the data collected, I concluded that the fire brigade demonstrat
 Analysis on this topic could be improved in the future by compiling fire accident reports from multiple newspapers in the city of Alexandria into data visualizations similar the ones above. However, this method may come with inaccuracies as it would be difficult to detect multiple newspapers reporting on the same incident, which may result in bias in the visualization towards larger incidents that more newspapers would have reported on.
 
 Bibliography
+
 On Barak, “Scraping the Surface: The Techno-Politics of Modern Streets in Turn-of-Twentieth-Century AlexandriaPreview the document,” Mediterranean Historical Review 24, no. 2 (December 2009): 187–205.
