@@ -30,6 +30,7 @@ Beginning in the last month of 1907, cholera outbreaks began to pop up in places
 It seems as if in later issues of the Gazette there might be more reporting of cholera in the following months to come, possibly some in Alexandria itself.  Since the content repository only goes up to Febuary, 1st 1908, I can only get data on cholera up to this point.  However, the data suggests that there will be a an outbreak soon due to to the Sanitary Department releasing a statement to get prepared for an outbreak.  
 
 Sources:
+
 Charles McCabe  (1979)  The Decline of Things,  Clinical Toxicology,  15:3,  341-342,  DOI:  [10.3109/15563657908989883](https://doi.org/10.3109/15563657908989883)
 
 Cholera. (n.d.). Retrieved December 4, 2019, from https://www.who.int/news-room/fact-sheets/detail/cholera.
