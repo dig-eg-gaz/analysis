@@ -31,4 +31,5 @@ It seems as if in later issues of the Gazette there might be more reporting of c
 
 Sources:
 Charles McCabe  (1979)  The Decline of Things,  Clinical Toxicology,  15:3,  341-342,  DOI:  [10.3109/15563657908989883](https://doi.org/10.3109/15563657908989883)
+
 Cholera. (n.d.). Retrieved December 4, 2019, from https://www.who.int/news-room/fact-sheets/detail/cholera.
