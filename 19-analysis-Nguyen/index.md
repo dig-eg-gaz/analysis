@@ -31,4 +31,10 @@ Replaced empty spaces with a single space.
 There are words that are in the headlines that correspond to the whole paragraph, but aren’t necessarily top twenty-five, but there are scarcely any words that were frequent in the paragraph that are frequent for the headlines. Out of the top twenty-five reoccurring words for each, only four have corresponded. Top 25 happen to be where the frequency of words for headlines is more than one. Since paragraphs contained higher counts of words like "train" and "railway", but headlines contained higher counts of  "fatal", "railway", "motor", and "tram", one can see that the word "fatal" is a signal for readers that there is an important accident. This also shows that there is a high probability that most reoccurring accidents are firstly train accidents and secondly motor accidents.
 Having the top four words in common be "cairo", "injured", "railway", and "train" show again that train accidents occur the most and are presented most frequently, as well as having a strong basis in Cairo. "Injured" is a common word used for both show and description- a signal for readers that a person was affected but also a common description for readers to catch onto.
 
+According to "Reported Accidents, Incidents, Tragedies, and Disasters", accidents can be categorized under "vehicles" or general headlines (Cannon). The author discussed that accidents are also described using different words such as "incidents", "tragedies", and "disasters." This shows that there can be many missing descriptions or occurrences that I missed due to language variations.  
+
+Data Visualization:
 <iframe src="https://public.tableau.com/views/CombinedAccidentsBarGraph/Sheet1?:showVizHome=no&:embed=true" align="center" width="90%" height="500"></iframe>
+
+Sources:
+Cannon, Jonathan. “Reported Accidents, Incidents, Tragedies, and Disasters.” Digital Egyptian Gazette, Will Hanley, 16 Apr. 2018, dig-eg-gaz.github.io/post/18-analysis-cannon/.
