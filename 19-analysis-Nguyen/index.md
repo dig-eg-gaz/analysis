@@ -34,8 +34,7 @@ Having the top four words in common be "cairo", "injured", "railway", and "train
 According to "Reported Accidents, Incidents, Tragedies, and Disasters", accidents can be categorized under "vehicles" or general headlines (Cannon). The author discussed that accidents are also described using different words such as "incidents", "tragedies", and "disasters." This shows that there can be many missing descriptions or occurrences that I missed due to language variations.  
 
 Data Visualization:
-
-
+<iframe src="https://public.tableau.com/views/CombinedAccidentsBarGraph/Sheet1?:showVizHome=no&:embed=true" align="center" width="90%" height="500"></iframe>
 
 <iframe src="https://public.tableau.com/views/CombinedAccidentsBarGraph/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link" align="center" width="90%" height="500"></iframe>
 
