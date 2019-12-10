@@ -23,12 +23,12 @@ So when was this vast plague the worst? In other words when and where was it the
 In comparison with 1904, as the bar graph shows, there was a considerable diminution in the number of cases of plague in Egypt as in the year of 1905. However, the following year, 1906, the plague spread and the number of cases severely increased. Real estimates are said to be the following:
 > "The total number of cases notified since the beginning of the year amounted to 464 against 257 and 854 for the corresponding periods of 1905 and 1904 respectively." (1906-09-25.xml)
 
-The plague has persisted in Egypt each year since 1899 arriving from the trade ports. With that said, that means that the cities closest to the ports must be the ones most affected by it. After gathering the following data through the _The Egyptian Gazette_, my hypothesis seemed to be correct.
+The plague has persisted in Egypt each year since 1899 arriving from the trade ports. With that said, that means that the cities closest to the ports must be the ones most affected by it. After gathering the following data through the _The Egyptian Gazette_, my hypothesis proved to be correct.
 
 (NOTE: Map data not exact to real numbers, yet it is an accurate small-scale representation).
 <iframe src="https://public.tableau.com/views/Bubonicplaguechartdata/Sheet2?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" align="center" width="90%" height="500"></iframe>
 
-As shown above, the city that was most frequently affected by the Bubonic Plague was Alexandria.Following Alexandria was Suez, which also has a huge trade port that connects the Red Sea with the Mediterranean Sea. However, after reading through the newspaper I encountered another possibility of why this might be the case.
+As shown above, the city that was most frequently affected by the Bubonic Plague was Alexandria. XFollowing Alexandria was Suez, which also has a huge trade port that connects the Red Sea with the Mediterranean Sea. However, after reading through the newspaper I encountered another possibility of why this might be the case.
 > "It is the only town with a drainage system, and many of the drains are in a very dilapidated condition and infested with rats. This may be one of the reasons which account for the persistence of the disease at Alexandria."(1906-07-27.xml)
 
 In regards to preventing the spread of this plague, “Clayton Gas” was used in the early 1900s. It destroyed not only rats and vermin, but also the parasites on them and sterilized the eggs of insects as well. Since no cures were discovered until 20 years later, preventions taken towards infected humans were unsuccessful. An important thing to notice is that the infected rat is the cause of the disease remaining endemic in a town, but the epidemic form of the disease is caused by the infected human being.
