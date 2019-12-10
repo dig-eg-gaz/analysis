@@ -23,7 +23,7 @@ So when was this vast plague the worst? In other words when and where was it the
 In comparison with 1904, as the bar graph shows, there was a considerable diminution in the number of cases of plague in Egypt as in the year of 1905. However, the following year, 1906, the plague spread and the number of cases severely increased. Real estimates are said to be the following:
 > "The total number of cases notified since the beginning of the year amounted to 464 against 257 and 854 for the corresponding periods of 1905 and 1904 respectively." (1906-09-25.xml)
 
-The plague has persisted in Egypt each year since 1899 arriving from the trade ports. With that said, that means that the cities closest to the ports must be the ones most affected by it. After gathering the following data through the _Egyptian Gazette_, my hypothesis proved to be correct.
+The plague has persisted in Egypt each year since 1899 arriving from the trade ports. With that said, that means that the cities closest to the ports must be the ones most affected by it. After gathering the following data through the The Egyptian Gazette and inputting it into Tableau, this statement proved to be correct.
 
 (NOTE: Map data not exact to real numbers, yet it is an accurate small-scale representation).
 <iframe src="https://public.tableau.com/views/Bubonicplaguechartdata/Sheet2?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" align="center" width="90%" height="500"></iframe>
