@@ -41,7 +41,7 @@ Firstly, due to the nature of these advertisements not actually being put into a
 After moving all of the div’s into a plaintext file, I separated them by year and began looking for patterns and certain terminology that I deemed important and observed repeating throughout. I then took specific words that I found important and created a database of the occurrences that they came up in the advertisements. I also counted the number of each advertisement for each year and then created a ratio of instances of word : instances of the advertisement that year. That created a fraction of the average number of times a specific word came up in one advertisement, allowing me to properly compare between years. I then plotted this data using Tableau and came up with the following:
 
 ### Dr. William's Pink Pills:
-<div class='tableauPlaceholder' id='viz1576002997766' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_15758293045230&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_15758293045230&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_15758293045230&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div
+<iframe src="https://public.tableau.com/views/Book1_15758293045230/Sheet1?:display_count=y&:origin=viz_share_link?:showVizHome=no&:embed=true" align="center" width="90%" height="500"></iframe>
 
 &nbsp;
 
@@ -50,7 +50,7 @@ After moving all of the div’s into a plaintext file, I separated them by year 
 &nbsp;
 
 ### Doan's Kidney Pills
-<div class='tableauPlaceholder' id='viz1576003026214' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1s_15758318890720&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1s_15758318890720&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1s_15758318890720&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>
+<iframe src="https://public.tableau.com/views/Book1s_15758318890720/Sheet1?:display_count=y&:origin=viz_share_link?:showVizHome=no&:embed=true" align="center" width="90%" height="500"></iframe>
 
 ## Data Analysis
 
