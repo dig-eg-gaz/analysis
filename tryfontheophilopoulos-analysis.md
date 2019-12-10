@@ -5,7 +5,7 @@ author: Tryfon Gerasimos Theophilopoulos
 subheadline: "Tryfon Gerasimos Theophilopoulos"
 permalink: /analysis/2019/Theophilopoulos-analysis
 ---
-# Medical Terminology as a means of analysis for the progress of medicine
+# Medical Terminology as a means of analysis for the progression of medicine in Egypt and the British Empire
 
 ## Introduction
 

@@ -14,7 +14,7 @@ image:
   preview_only: true
 projects: []
 ---
-# Medical Terminology as a means of analysis for the progress of medicine
+# Medical Terminology as a means of analysis for the progression of medicine in Egypt and the British Empire
 
 ## Introduction
 
