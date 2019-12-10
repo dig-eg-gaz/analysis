@@ -23,7 +23,7 @@ These advertisements seemed to be very different from other advertisements withi
 
 ## Procedural Method for Obtaining Results
 
-Firstly, due to the nature of these advertisements not actually being put into a "<div type=“advertisement>", I had to form my Xpath Query slightly differently so that it would find the instances of the title of the pills. I also was required to keep the Xpath Query fairly basic as narrowing it down in various ways resulted in not flagging positives as it should have been. For example, there was no template for these advertisements due to the fact that, once again, they were constantly changing throughout the Egyptian Gazette. The two queries that I used to create a database were the following:
+Firstly, due to the nature of these advertisements not actually being put into a advertisement div, I had to form my Xpath Query slightly differently so that it would find the instances of the title of the pills. I also was required to keep the Xpath Query fairly basic as narrowing it down in various ways resulted in not flagging positives as it should have been. For example, there was no template for these advertisements due to the fact that, once again, they were constantly changing throughout the Egyptian Gazette. The two queries that I used to create a database were the following:
 
 //div/div/p[contains(., 'Pink Pills’)]
 
