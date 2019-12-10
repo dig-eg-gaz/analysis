@@ -5,9 +5,10 @@ author: Tryfon Gerasimos Theophilopoulos
 subheadline: "Tryfon Gerasimos Theophilopoulos"
 permalink: /analysis/2019/Theophilopoulos-analysis
 ---
-#Medical Terminology as a means of analysis for the progress of medicine
+# Medical Terminology as a means of analysis for the progress of medicine
 
-##Introduction
+## Introduction
+
 In 1905, the world found itself in quite the predicament regarding medicine due to the relatively unknown cause and actual pathophysiological processes surrounding infection and contamination of a pathogen. Egypt and Alexandria in particular were still under British rule, as can be seen through the Egyptian Gazette, which is a primarily English containing newspaper marketed towards the British in the surrounding Egyptian areas as well as those who dealt with these individuals on a primary basis. In conclusion, this newspaper was made for the rich imperialists in control. Because of this, many different European and British influences can be seen within the Egyptian Gazette, one of which being certain medically affiliated advertisements. Two advertisements which caught my eye in particular were ones advertising Dr. William’s Pink Pills as well as Doan’s Kidney Pills.
 
 ![A Painful Portrait 1905-01-04](https://i.imgur.com/klxKSl2.png )
@@ -20,10 +21,12 @@ To begin my analysis, I first had to find suitable advertisements that I would b
 
 These advertisements seemed to be very different from other advertisements within the Egyptian Gazette in a couple different senses which made them perfect candidates for this embarkment. The main reason was because these advertisements often did not find themselves coming up within the main advertisement sections at all. The places that I found these advertisements were within actual bodies of text where stories and other items would be found. This meant that instead of being a reoccurring identical template, it changed constantly. In addition, because of this constant dynamic aspect that the advertisements had, they were often formatted in the form of a testimonial to make it seem less like a product being sold and more like an actual account from a civilian just like one who may be reading the newspaper, increasing their overall authenticity to the reader. In the end, this entire con is just a marketing scheme to make money, and it appears that these antics worked for a reason I will expand on when showing the data.
 
-##Procedural Method for Obtaining Results
-Firstly, due to the nature of these advertisements not actually being put into a “<div type=“advertisement>”, I had to form my Xpath Query slightly differently so that it would find the instances of the title of the pills. I also was required to keep the Xpath Query fairly basic as narrowing it down in various ways resulted in not flagging positives as it should have been. For example, there was no template for these advertisements due to the fact that, once again, they were constantly changing throughout the Egyptian Gazette. The two queries that I used to create a database were the following:
+## Procedural Method for Obtaining Results
+
+Firstly, due to the nature of these advertisements not actually being put into a "<div type=“advertisement>", I had to form my Xpath Query slightly differently so that it would find the instances of the title of the pills. I also was required to keep the Xpath Query fairly basic as narrowing it down in various ways resulted in not flagging positives as it should have been. For example, there was no template for these advertisements due to the fact that, once again, they were constantly changing throughout the Egyptian Gazette. The two queries that I used to create a database were the following:
 
 //div/div/p[contains(., 'Pink Pills’)]
+
 //div/div/p[contains(., ‘Doan’s Kidney Pills’)]
 
 After moving all of the div’s into a plaintext file, I separated them by year and began looking for patterns and certain terminology that I deemed important and observed repeating throughout. I then took specific words that I found important and created a database of the occurrences that they came up in the advertisements. I also counted the number of each advertisement for each year and then created a ratio of instances of word : instances of the advertisement that year. That created a fraction of the average number of times a specific word came up in one advertisement, allowing me to properly compare between years. I then plotted this data using Tableau and came up with the following:
@@ -34,7 +37,8 @@ Dr. William's Pink Pills:
 Doan's Kidney Pills
 <iframe src="https://public.tableau.com/views/Book1s_15758318890720/Sheet1?:display_count=y&:origin=viz_share_link?:showVizHome=no&:embed=true" align="center" width="90%" height="500"></iframe>
 
-##Data Analysis
+## Data Analysis
+
 From this data, I was able to learn and infer a couple of different things. The first thing that stood out to me was the amount of times the advertisements for these “miracle pills” would come up throughout the Egyptian Gazette. For example, when looking at instances of Dr. William’s Pink Pills, in 1905 there were only 16 occurrences of the advertisement. In 1906, that number increased slightly to 19 instances. Then, in 1907, the number skyrocketed to 45 different instances of that advertisement throughout the year in the Egyptian Gazette. When looking Doan’s Kidney Pills, a similar jump can be observed in the Egyptian Gazette. In 1905, 11 instances were recorded, in 1906 12 instances were recorded, and in 1907 the number shot through the roof. This clearly goes to show that the success surrounding these pills was flourishing as much more money was able to be put towards advertising following what I believe was a good year or two of selling their product. I also believe that this is due to this relatively new method of advertising which implemented personal testimonials to sell the product.
 
 Other patterns that I observed from this data was regarding exactly why many of these terms decreased in frequency over the three year time span. I believe after looking at the data and taking a detailed look into what types of treatments that the pills were offering that as medicine became slightly more advanced over this time period, these advertisements began to vouch for treating less and less serious ailments. They instead appear to move towards more general symptoms, the primary one being pain. These advertisements saw an increase in the prevalence of “pain” as pain can be associated with various illnesses, allowing them to generalize to more diseases without distinctly claiming to cure one or the other. As actual treatments for certain illnesses became available, these “miracle pills” began to advertise less towards specific ones and more for general symptoms.
