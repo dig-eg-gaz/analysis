@@ -28,6 +28,7 @@ The plague has persisted in Egypt each year since 1899 arriving from the trade p
 (NOTE: Map data not exact to real numbers, yet it is an accurate small-scale representation).
 <iframe src="https://public.tableau.com/views/Bubonicplaguechartdata/Sheet2?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" align="center" width="90%" height="500"></iframe>
 
+
 As shown above, the city that was most frequently affected by the Bubonic Plague was Alexandria. Following Alexandria was Suez, which also has a huge trade port that connects the Red Sea with the Mediterranean Sea. However, after reading through the newspaper I encountered another possibility of why this might be the case.
 > "It is the only town with a drainage system, and many of the drains are in a very dilapidated condition and infested with rats. This may be one of the reasons which account for the persistence of the disease at Alexandria" (1906-07-27.xml).
 
