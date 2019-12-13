@@ -20,11 +20,6 @@ Many diseases that emerged in the 19th century included cholera, yellow fever, t
 ### Dr. Williams’ Pink Pills:
 <iframe src="https://public.tableau.com/views/Book1_15758293045230/Sheet1?:display_count=y&:origin=viz_share_link?:showVizHome=no&:embed=true" align="center" width="90%" height="500"></iframe>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 ### Doan's Kidney Pills
 <iframe src="https://public.tableau.com/views/Book1s_15758318890720/Sheet1?:display_count=y&:origin=viz_share_link?:showVizHome=no&:embed=true" align="center" width="90%" height="500"></iframe>
