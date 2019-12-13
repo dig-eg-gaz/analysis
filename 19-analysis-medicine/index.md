@@ -13,6 +13,8 @@ image:
   preview_only: true
 projects: []
 ---
+# Analysis Project
+
 Many diseases that emerged in the 19th century included cholera, yellow fever, typhus, smallpox, and many more. However, it wasn’t until the late 19th century that weak medical practices became outdated. Before these breakthroughs there was only a basic understanding, which furthermore, commercialized the industry by selling medications with little to know regulation utilizing public fear and desperation. Many campaigns and ads sold the idea of “bad blood” being the cause as these medications were claimed to generate new blood and purify the body. Obviously, we know this is not real science but then, it was all the people knew and believed in regards to infectious diseases that were on a constant rise in the 1900s.
 
 ## Medical Terminology
