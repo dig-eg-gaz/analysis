@@ -1,18 +1,10 @@
 ---
 title: "Economic History of Stocks and Shares"
-subtitle: ""
 summary: "Group analysis project looking at the Stocks and Shares table in 1905"
 authors: [baileeku, alvinchen, austinkim, jimmymendez, nickpiraino, tylerkolby]
 tags: ["stocks and shares", "Economic"]
 categories: [analysis]
 date: 2019-12-12
-featured: false
-draft: false
-image:
-  caption: ""
-  focal_point: "Smart"
-  preview_only: true
-projects: []
 ---
 ##Identifying Data Sets: Bailee
 

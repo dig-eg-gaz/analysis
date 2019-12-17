@@ -1,5 +1,5 @@
 ---
-title: "Maximum and Minimum Temperature in Alexandria, Egypt(May 1906-April 1907)"
+title: "Maximum and Minimum Temperature in Alexandria, Egypt (May 1906-April 1907)"
 author: [AlainHernandez]
 date: 2019-12-01
 categories: [analysis]

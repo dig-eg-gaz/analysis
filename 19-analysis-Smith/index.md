@@ -1,11 +1,8 @@
 ---
-layout: page
 title: Wind speeds in relation to the heat of the sun
-author: PeytonSmith
-subheadline: "Peyton Smith"
-permalink: /analysis/2019/smith-analysis
-header:
-  image_fullwidth: front-page.jpg
+author: [PeytonSmith]
+date: 2019-12-07
+categories: [analysis]
 ---
 ### Introduction
 

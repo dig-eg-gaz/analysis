@@ -1,7 +1,7 @@
 ---
 title: "Medicine Analysis Project"
 subtitle:
-authors: [Tryfon Gerasimos Theophilopoulos, Oscar Naranjo, Jake Himmel, Breanna Heflin, Damamli Dorsey]
+authors: [TryfonGerasimosTheophilopoulos, OscarNaranjo, JakeHimmel, BreannaHeflin, DamamliDorsey]
 tags: ["medicine"]
 categories: [curiosities]
 date: 2019-12-10

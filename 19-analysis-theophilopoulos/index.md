@@ -1,18 +1,10 @@
 ---
 title: "Medical Terminology Analysis Project"
-subtitle:
 summary: "An analysis of the progression of miracle pill advertisement throughout 1905, 1906, and 1907 as a means to make inferences about the overall progression of medicine and marketing of medicines"
 authors: [TryfonGerasimosTheophilopoulos]
 tags: ["medicine"]
-categories: [curiosities]
+categories: [analysis]
 date: 2019-12-10
-featured: false
-draft: false
-image:
-  caption: "Snippet of a Dr. William's Pink Pills advertisement from 1905-01-04"
-  focal_point: "Smart"
-  preview_only: true
-projects: []
 ---
 # Medical Terminology as a means of analysis for the progression of medicine in Egypt and the British Empire
 

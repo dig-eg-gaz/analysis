@@ -1,7 +1,7 @@
 ---
 title: Diseases and the Medical Schools/Hospitals History
 authors: [Damamli Dorsey]
-date: 2019-12-009
+date: 2019-12-09
 categories: [analysis]
 ---
 The goal of my analysis project was to discover where medical schools were located within Egypt and what diseases where occurring near these schools. I then wanted to know if the occurrences of these disease in correlation with a certain school of medicine, would mean that the disease was an epidemic for that region. I wanted to know this because if the disease was found to be researched in these medical schools and hospitals  In the *Egyptian Gazette* the term *medical school* is not common but the term **school of medicine** is. Using this term, I was able to find 53 items concerning this term. Many of these articles where talking about how there were meetings at these schools but there were no indicators about what disease may have been in the area. Upon further searching, I was able to find words such as **Tropical Disease**, **Trypanosomiasis**, and **Sleeping Sickness** which helped me to further my search in to the diseases effecting which areas.  Also, I began to search for **Kasr-el-Ainy**, **Gordon College** and **Laboratories** in order to have a clearer view on where these diseases may have been treated at in addition to the medical schools. I planned to use an excel spreadsheet to record the data I find on each disease and what medical school or hospital is treated that disease. After looking at that, I will use visualizations such as a map and a bar graph to show how many times a certain disease was talked about in an area.

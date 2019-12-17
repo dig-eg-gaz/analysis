@@ -4,7 +4,6 @@ authors: [VanessaGrimaldo]
 date: 2019-12-09
 categories: [analysis]
 ---
-#### Individual Analysis Project
 
 For the analysis project, my group focused primarily on the environment in Egypt, and the various aspects of the environment. For my individual analysis, I’ve decided to focus on the mosquitoes in the environment in Egypt. I was curious as to how mosquitoes tied into the environment, more specifically if they were prevalent in the environment, what time of year mosquitoes seemed to come around and interfere with the daily lives of the individuals living in Egypt, and how they affected individuals and business in Egypt. After I found the various data, I created bar graphs to compare the data I found, and I strived to find connections and similarities in the different sets of data I was looking for.
 

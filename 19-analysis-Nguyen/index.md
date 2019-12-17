@@ -1,7 +1,7 @@
 ---
 title: "Accidents Linguistics"
-authors: [Phuong Nguyen]
-date: 2019-12-003
+authors: [PhuongNguyen]
+date: 2019-12-03
 categories: [analysis]
 ---
 

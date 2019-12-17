@@ -1,13 +1,10 @@
 ---
-layout: page
-title: Comparing Location and Speed to Analyze the Effectiveness of Communication
-author: AaronKamata
-subheadline: "Aaron Kamata"
-permalink: /analysis/2018/kamata-analysis
-header:
-  image_fullwidth: featured.jpg
+title: "Comparing Location and Speed to Analyze the Effectiveness of Communication"
+author: [AaronKamata]
+date: 2019-12-07
+categories: [analysis]
 ---
-//p[matches(., 'sank', 'i') and matches(., 'ship', 'i')]|//p[matches(., 'collision', 'i') and matches(., 'ship', 'i')]|//p[matches(., 'sank', 'i') and matches(., 'collision', 'i')]|//p[matches(., 'collide', 'i') and matches(., 'ship', 'i')]|//p[matches(., 'sank', 'i') and matches(., 'collide', 'i')]|//p[matches(., 'shipwreck', 'i')]
+`//p[matches(., 'sank', 'i') and matches(., 'ship', 'i')]|//p[matches(., 'collision', 'i') and matches(., 'ship', 'i')]|//p[matches(., 'sank', 'i') and matches(., 'collision', 'i')]|//p[matches(., 'collide', 'i') and matches(., 'ship', 'i')]|//p[matches(., 'sank', 'i') and matches(., 'collide', 'i')]|//p[matches(., 'shipwreck', 'i')]`
 
 This query returns 66 different results. The goal of this query is to return as many mentions of shipwrecks and ship collisions as possible. However, some manual filtering is required to get rid of irrelevant results. Once the irrelevant results are removed, there are about 36 different mentions of various shipwrecks that include a location and date. There may be a more concise or effective query than this, so if I come across it I will amend this document to reflect that query’s results instead.
 
@@ -31,5 +28,6 @@ On this graph, the x-axis displays the distance (in miles) between Cairo and the
 
 After plotting the points on a coordinate plane and calculating a line of best fit and its coefficient of determination (which turned out to be R2= 0.079), it became clear that there was no correlation between the physical distance between Cairo and the incident and the time it took to report on said incident.  This indicates that the spread of information throughout the world was fast enough at the time that an incident happening far away did not determine how long it would take for that information to spread. Therefore, communication during this time period was very effective.
 
-	[Here](https://dig-eg-gaz.github.io/post/16-analysis-stefonek/) is a post tracking Russian and Japanese ships during the year of 1905.
-	[Here](https://dig-eg-gaz.github.io/post/18-analysis-pierre/) is a post analyzing how telegrams worked as a means of rapid communication during the time period.
+[Here](https://dig-eg-gaz.github.io/post/16-analysis-stefonek/) is a post tracking Russian and Japanese ships during the year of 1905.
+
+[Here](https://dig-eg-gaz.github.io/post/18-analysis-pierre/) is a post analyzing how telegrams worked as a means of rapid communication during the time period.

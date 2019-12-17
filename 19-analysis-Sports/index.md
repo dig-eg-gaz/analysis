@@ -1,8 +1,9 @@
+---
 title: "What Brings in the Crowds for Sporting Events?"
-authors: Mitch Reynolds, Karl Roche, Victor Faynberg, Will Hesse, Madison Hayes
+authors: [MitchReynolds, KarlRoche, VictorFaynberg, WillHesse, MadisonHayes]
 date: 2019-12-10
 categories: [analysis]
-
+---
 Throughout history, sports have impacted the lives of not only the participants, but also the fans who choose to watch them. As the sports group, we decided to focus our analysis project on the different factors which can affect spectator turnout across the major sports of the Egyptian Gazette. Among residents of early 1900’s Egypt, three of the most popular sports were football (soccer), polo, and horse racing. By looking into the data that we have collected for these sports, we are able to get an idea of what Egyptian sport fans wanted to see. Through our analysis of the Egyptian Gazette data and cross-checking with multiple studies on attendance of various sports, we have concluded that in early 1900’s Egypt, there were three major factors of sports attendance: level of competition/skill of either side, rivalry between the two sides, and importance/stakes of the competition.  
 
 The question of how to get fans in attendance of sporting events is nothing new; as long as there have been sports, there have been those in charge trying to increase attendance. Especially recently, sporting events provide a large stream of revenue, so factors which influence attendance are important information for those involved in sports. Experts and researchers, such as John Douvis and Peter Bird, have tried finding these factors in many different ways across a wide range of sports. These publications are looking at current factors, of which many do not apply to early 1900’s Egypt, however common themes across generations have held true.  

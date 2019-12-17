@@ -1,11 +1,8 @@
 ---
-layout: page
-title: Heat of the Sun [May 1906-April 1907]
-author: PeytonSmith, EmilySeguin, AlainHernandez, MikaylaMonaco
-subheadline: "Peyton Smith"
-permalink: /analysis/2019/smith-analysis
-header:
-  image_fullwidth: front-page.jpg
+title: "Heat of the Sun [May 1906-April 1907]"
+author: [PeytonSmith, EmilySeguin, AlainHernandez, MikaylaMonaco]
+date: 2019-12-10
+categories: [analysis]
 ---
 ### Introduction
 

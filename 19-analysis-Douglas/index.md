@@ -1,5 +1,5 @@
 ---
-title: "InsurancevsAssurance"
+title: "Insurance vs Assurance"
 authors: [ShanezeDouglas]
 date: 1907-07-22
 categories: [analysis]

@@ -1,6 +1,6 @@
 ---
 title: "Cotton Production In Relation To Average Temperature in Alexandria"
-authors: [Macray Simmers]
+authors: [MacraySimmers]
 date: 2019-12-13
 categories: [analysis]
 ---

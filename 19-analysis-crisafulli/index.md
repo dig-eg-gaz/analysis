@@ -1,7 +1,7 @@
 ---
 title: "Emotions and Accidents"
 authors: AshleyCrisafulli
-date: 2019-12-006
+date: 2019-12-06
 categories: [analysis]
 ---
 The “Egyptian Gazette” has many stories about various types of accidents that happened all over the world, but mostly in Egypt. However, these focus merely on the accident itself rather than the way it impacted the people involved. For this reason, I wanted to investigate the reactions to different accidents, the extent to which fear is reported in the “Egyptian Gazette”.

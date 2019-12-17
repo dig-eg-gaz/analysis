@@ -1,11 +1,8 @@
 ---
-layout: page
-title: The Mystery of Daira Sanieh
-author: AlvinChen
-subheadline: "Alvin Chen"
-permalink: /analysis/2018/chen-analysis
-header:
-  image_fullwidth: daira_envelope.jpg
+title: "The Mystery of Daira Sanieh"
+author: [AlvinChen]
+date: 2019-12-17
+categories: [analysis]
 ---
 This individual research extends the essence of the group project in which the topic of economics and trade in Egypt. After the war with Britain, Egypt was turned to be a colony of Britain. Its economy had significant growth from the business introduced by the British. Businessman and the Egyptian colonial government promoted the civilization from the western industry to the locals. They strived to make the region as a European state. (1) To achieve that, many local resources such as arable lands and mineral pits were used for growing crops and mining. As more local industries started trading with other parts of the civilized world, the stock and exchange market formed. 
 
