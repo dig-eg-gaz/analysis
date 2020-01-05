@@ -41,7 +41,7 @@ Nevertheless, the accuracy of the data obtained from Xpath 2.0 is plausible. Thi
 
 From the data, we can roughly see the growth of Daira Senieh's stock which might due to the sale of lands. Its decline after 1905 also coincides with the nation's GDP since the company's size shared a significant component of the Egyptian economy. It is known that Egypt went through economic crisis in 1907<sup name="a8">[8](#f8)</sup>. This matched with the highlighted region of the real GDP graph showing below. 
 
-![rgdp_egypt.png](rgdp_egypt.png "The Real GDP of Egypt")
+<img src="rgdp_egypt.png" width="336">
 
 ### Summery
 In a glimpse of the economics of Egypt in the 1900s, I found Daira Senieh was established during the invasion of Britain. However, it had some crisis in finance in 1886, perhaps due to the warfare. In the later decades, the company announced its bankruptcy and put its lands on sale. This incident was later known as Daira Senieh scandal. <sup name="a9">[9](#f9)</sup> After it sold a fraction of the company owned lands, the company escaped the danger of bankruptcy. As the side effect of the sold lands, it reshaped Egypt's economy. The government gained fortune from the auction to fill the financial holes of national debts, but opened the door for the foreign influences on its domestic economy. 
