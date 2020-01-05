@@ -52,18 +52,18 @@ In a glimpse of the economics of Egypt in the 1900s, I found Daira Senieh was es
 <b name="f1">1</b> M. CAMPANINI, Storia dell’ Egitto contemporaneo. Dalla rinascita ottocentesca a Mubarak, Roma 2005, page 28 [↩](#a1)
 
 <b name="f2">2</b> SAMIR RAFAT, “Familiar Ground: the 19th Century Privatization of Daira
-Sanieh doesn’t seem that Distant,” Business Monthly Magazine [↩](#a2)    [Link] (http://www.egy.com/historica/97-07-00.php)
+Sanieh doesn’t seem that Distant,” Business Monthly Magazine [↩](#a2)    [Link](http://www.egy.com/historica/97-07-00.php)
 
-<b name="f3">3</b> ALI COŞKUN TUNÇER, “Sovereign Debt and International Financial Control of the Middle East and the Balkans, 1870 –1914” [↩](#a3)    [Link] (https://warwick.ac.uk/fac/arts/history/students/modules/hi173/classesandreading/colonialegypt/tuncer_-_middle_east_and_the_balkans_1870-1914_chapter_3_-_egypt.pdf)
+<b name="f3">3</b> ALI COŞKUN TUNÇER, “Sovereign Debt and International Financial Control of the Middle East and the Balkans, 1870 –1914” [↩](#a3)    [Link](https://warwick.ac.uk/fac/arts/history/students/modules/hi173/classesandreading/colonialegypt/tuncer_-_middle_east_and_the_balkans_1870-1914_chapter_3_-_egypt.pdf)
 
-<b name="f4">4</b> THE BRISBANE COURIER, “Sale of The Daira Sanieh”,1898 [↩](#a4)    [Link] (https://trove.nla.gov.au/newspaper/article/3673866/555286)
+<b name="f4">4</b> THE BRISBANE COURIER, “Sale of The Daira Sanieh”,1898 [↩](#a4)    [Link](https://trove.nla.gov.au/newspaper/article/3673866/555286)
 
-<b name="f5">5</b> UK PARLIAMENT, “Egypt—The Daira Sanieh of the Khedive” [↩](#a5)    [Link] (https://api.parliament.uk/historic-hansard/commons/1888/apr/10/egypt-the-daira-sanieh-of-the-khedive#column_847)
+<b name="f5">5</b> UK PARLIAMENT, “Egypt—The Daira Sanieh of the Khedive” [↩](#a5)    [Link](https://api.parliament.uk/historic-hansard/commons/1888/apr/10/egypt-the-daira-sanieh-of-the-khedive#column_847)
 
 <b name="f6">6</b> 1900 Cd.95 Egypt. No. 1 (1900). Reports by Her Majesty's agent and consul-general on the finances, administration, and condition of Egypt and the Soudan in 1899 [↩](#a6)
 
-<b name="f7">7</b> INTERNA TIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT, “The External Debt of Egypt”, Table A-3 [↩](#a7)    [Link] (http://documents.worldbank.org/curated/en/912111468022761475/pdf/670930SR0Box46000E1680debt0of0Egypt.pdf)
+<b name="f7">7</b> INTERNA TIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT, “The External Debt of Egypt”, Table A-3 [↩](#a7)    [Link](http://documents.worldbank.org/curated/en/912111468022761475/pdf/670930SR0Box46000E1680debt0of0Egypt.pdf)
 
-<b name="f8">8</b> DAILY CONSULAR AND TRADE REPORTS, “Trade Review of Egypt”, page 787 [↩](#a8)    [Link] (https://books.google.com/books?id=PbKRr5Z5PmIC&pg=PA787&lpg=PA787&dq=financial+crisis+in+egypt+1905)
+<b name="f8">8</b> DAILY CONSULAR AND TRADE REPORTS, “Trade Review of Egypt”, page 787 [↩](#a8)    [Link](https://books.google.com/books?id=PbKRr5Z5PmIC&pg=PA787&lpg=PA787&dq=financial+crisis+in+egypt+1905)
 
-<b name="f9">9</b> THE NEW YORK TIMES, “A Public Scandal in Egypt”, 1886 [↩](#a9)    [Link] (https://www.nytimes.com/1886/03/19/archives/a-public-scandal-in-egypt.html)
+<b name="f9">9</b> THE NEW YORK TIMES, “A Public Scandal in Egypt”, 1886 [↩](#a9)    [Link](https://www.nytimes.com/1886/03/19/archives/a-public-scandal-in-egypt.html)
