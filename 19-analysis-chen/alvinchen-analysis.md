@@ -25,13 +25,13 @@ Going further in-depth with the date featured with Daira Senieh, I found more co
 ### Privatization of Land
 As I mentioned earlier, the company had relationships with the English royal family. At surface level, its land could be the company's private property, but, in reality, it also could be seemed as the state's territory/land. It attempted to bail out the company through auctions. As we know, the company had the Royal family ties, so the auction set by Daira Senieh was controversial because the properties of the company could also deem as the nation's properties. Indeed, auctions on lands were ended with an failure. In one report published by The Brisbane Courier <sup name="a4">[4](#f4)</sup>, an Australia newspaper, the sale of Daira Senieh had disapproval from the English and the French syndicate groups. The Egyptian government demanded to have one-third of share from the final sale price which hind the auction process. This is subsequent to the auction held in last 10 years, the company "was unable to let a single acre of the sugar lands for 1888 in eight out of nine districts, and only 95 acres in the ninth district (the number offered to be let being about 25,000).” <sup name="a5">[5](#f5)</sup>
 In the 1900 Annual Report by Consul-General on the Finances, Administration, and Condition of Egypt, an excerpt of it stated, "the Government and the Company share equally in the net profit derived from the sale of land… meanwhile … the company now offers to sell lands on payment of one-tenth of the price, before 1905, after which time the buyers will have the option of paying the balance in cash or in fifteen annuities." It seemed that the government and Daria Seineh were encouraging peasants to be the owner of the debts, but it also sold out the land to foreign proprietors. <sup name="a6">[6](#f6)</sup>
+![daira_loans.jpg](daira_loans.jpg "Daira Senieh Loan")
 
-![daira_loans](daira_loans.jpg “Daira Senieh Loan”)
 
 
 As Daira Senieh continued to privatize its agricultural properties, the value of the lands, which is diluted on the open market, increased tremendously <sup name="a1">[1](#f1)</sup>. Therefore, the company's consortium gained revenue, which is exceeded to their outstanding debts, so it paid off its debt of 4,444,340 Para in 1905, according to the World Bank documentation <sup name="a7">[7](#f7)</sup>. Meanwhile, more foreign competitors acquired the lands from Daira Senieh to begin their industry in Egypt. 
 
-![sale_of_daira](sale_of_daira.jpg “The Sale of Daira Senieh”)
+![sale_of_daira.jpg](sale_of_daira.jpg "The Sale of Daira Senieh")
 
 ### Stock Value Analysis
 The scope of this research project is focused on the year of the newspaper I could access was between the year 1905 to the year 1908. I adopted the table of Stock and Share, which describe Egyptian companies' value changes. With the regular expression, I use Xpath query to search the latest content repository, which was updated by the end of Fall 2019. With inserting `//div[@xml:id="deg-el-stsh01"]/table//cell[contains(.,'New Daira Sanieh Fond')]/preceding-sibling::cell/measure`, 126 results was found. I then organize the data with a trendline graph.
@@ -41,7 +41,8 @@ Nevertheless, the accuracy of the data obtained from Xpath 2.0 is plausible. Thi
 
 From the data, we can roughly see the growth of Daira Senieh's stock which might due to the sale of lands. Its decline after 1905 also coincides with the nation's GDP since the company's size shared a significant component of the Egyptian economy. It is known that Egypt went through economic crisis in 1907<sup name="a8">[8](#f8)</sup>. This matched with the highlighted region of the real GDP graph showing below. 
 
-![rgdp_egypt](rgdp_egypt.png “The Real GDP of Egypt”)
+![rgdp_egypt.png](rgdp_egypt.png "The Real GDP of Egypt")
+
 ### Summery
 In a glimpse of the economics of Egypt in the 1900s, I found Daira Senieh was established during the invasion of Britain. However, it had some crisis in finance in 1886, perhaps due to the warfare. In the later decades, the company announced its bankruptcy and put its lands on sale. This incident was later known as Daira Senieh scandal. <sup name="a9">[9](#f9)</sup> After it sold a fraction of the company owned lands, the company escaped the danger of bankruptcy. As the side effect of the sold lands, it reshaped Egypt's economy. The government gained fortune from the auction to fill the financial holes of national debts, but opened the door for the foreign influences on its domestic economy. 
 
