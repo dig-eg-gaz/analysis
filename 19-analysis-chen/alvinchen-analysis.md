@@ -31,7 +31,7 @@ In the 1900 Annual Report by Consul-General on the Finances, Administration, and
 
 As Daira Senieh continued to privatize its agricultural properties, the value of the lands, which is diluted on the open market, increased tremendously <sup name="a1">[1](#f1)</sup>. Therefore, the company's consortium gained revenue, which is exceeded to their outstanding debts, so it paid off its debt of 4,444,340 Para in 1905, according to the World Bank documentation <sup name="a7">[7](#f7)</sup>. Meanwhile, more foreign competitors acquired the lands from Daira Senieh to begin their industry in Egypt. 
 
-![sale_of_daira.jpg](sale_of_daira.jpg "The Sale of Daira Senieh")
+![sale_of_daira.jpg](sale_of_daira.jpg "The Sale of Daira Senieh" =250x)
 
 ### Stock Value Analysis
 The scope of this research project is focused on the year of the newspaper I could access was between the year 1905 to the year 1908. I adopted the table of Stock and Share, which describe Egyptian companies' value changes. With the regular expression, I use Xpath query to search the latest content repository, which was updated by the end of Fall 2019. With inserting `//div[@xml:id="deg-el-stsh01"]/table//cell[contains(.,'New Daira Sanieh Fond')]/preceding-sibling::cell/measure`, 126 results was found. I then organize the data with a trendline graph.
